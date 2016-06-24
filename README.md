@@ -3,10 +3,11 @@
 
 ## Business Services
 ### 1.Product Catalogue Service
+
 	It offers the following functionality by using Embedded H2 Database.
+    
         	1. GET  /productCatalogueService/products – gives the list of all products
-            		http://localhost:8003/productCatalogueService/products
             2. GET /productCatalogueService/search – gives the list of products for matching name and type
-            		http://localhost:8003/productCatalogueService/products/searchByType?type=tv
             3. GET /productCatalogueService/searchByType – gives the list of products for matching type
-            		http://localhost:8003/productCatalogueService/products/search?name=BMW&type=car
+            4. POST /productCatalogueService/products – saves the given product
+            5. DELETE /productCatalogueService/products/{id} – delete the given product
