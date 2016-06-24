@@ -86,10 +86,15 @@
 		
 ## APP Test
 
+### View the service discovery either using port 8071 or 8072 or 8073
+
+![2](https://cloud.githubusercontent.com/assets/20100300/16338562/2bd9d7a0-39e3-11e6-9481-8747f60c3ae1.png)
 
 ### http://localhost:8003/productCatalogueService/products
 ### http://localhost:8003/productCatalogueService/products/searchByType?type=tv
 ### http://localhost:8003/productCatalogueService/products/search?name=BMW&type=car
+![1](https://cloud.githubusercontent.com/assets/20100300/16338558/273ebc4c-39e3-11e6-9a20-aed50acb9736.png)
+![3](https://cloud.githubusercontent.com/assets/20100300/16338566/30a42132-39e3-11e6-95c0-71e89222ae4a.png)
 ### http://localhost:8003/pricingService/products/price/get?name=ALTO&type=car
 
 
