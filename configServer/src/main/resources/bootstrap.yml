@@ -3,8 +3,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hari140489/microservices
-          searchPaths: ConfigData
+          uri: https://github.com/kranthiB/globoMart
+          searchPaths: config
 
 server:
   port: 8000
