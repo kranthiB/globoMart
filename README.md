@@ -21,5 +21,9 @@
     The above method gives the price value for the given name and type of the product. This method first
     contact the “Product Catalogue Service” to get the “product id” for given name and type (This has been
     called using “load-balancer-client”). Then, get the price based on the “product id” attribute.
+    
+## Eureka (Service Discovery)
+
+	This will maintain the all instances of business services, client API gateway and also all other instances of eureka service discovery in the cluster.
 
 
