@@ -6,8 +6,8 @@
 
 	It offers the following functionality by using Embedded H2 Database.
     
-        	1. GET  /productCatalogueService/products – gives the list of all products
-            2. GET /productCatalogueService/search – gives the list of products for matching name and type
-            3. GET /productCatalogueService/searchByType – gives the list of products for matching type
-            4. POST /productCatalogueService/products – saves the given product
-            5. DELETE /productCatalogueService/products/{id} – delete the given product
+        	1. GET  	/productCatalogueService/products – gives the list of all products
+            2. GET 	 	/productCatalogueService/search  – gives the list of products for matching name,type
+            3. GET 	 	/productCatalogueService/searchByType – gives the list of products for matching type
+            4. POST  	/productCatalogueService/products – saves the given product
+            5. DELETE 	/productCatalogueService/products/{id} – delete the given product
