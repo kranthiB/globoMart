@@ -90,6 +90,7 @@
 
 ![2](https://cloud.githubusercontent.com/assets/20100300/16338562/2bd9d7a0-39e3-11e6-9481-8747f60c3ae1.png)
 
+> $ git clone https://github.com/asd.git
 ### http://localhost:8003/productCatalogueService/products
 ### http://localhost:8003/productCatalogueService/products/searchByType?type=tv
 ### http://localhost:8003/productCatalogueService/products/search?name=BMW&type=car
