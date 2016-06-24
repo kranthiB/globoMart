@@ -97,7 +97,9 @@
 ### http://localhost:8003/pricingService/products/price/get?name=ALTO&type=car
 ![3](https://cloud.githubusercontent.com/assets/20100300/16338566/30a42132-39e3-11e6-95c0-71e89222ae4a.png)
 ### http://localhost:8004/hystrix.html (To access hystrix dashboard)
-
+![4](https://cloud.githubusercontent.com/assets/20100300/16338821/aa911cb0-39e4-11e6-8c76-7d019d6d9adb.png)
+## copy the url - http://localhost:8003/hystrix.stream in the above textbox  and click "Monitor Stream" button.
+![5](https://cloud.githubusercontent.com/assets/20100300/16338828/b377d490-39e4-11e6-82dc-de705e17c9f1.png)
 
 
 
